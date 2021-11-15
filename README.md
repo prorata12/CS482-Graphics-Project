@@ -2,7 +2,7 @@
 2017 Team Project with two teammates
 
 ## How to run
-After downloading CS482-Graphics-Project/Executable Folder, run a below file:
+After downloading CS482-Graphics-Project/Executable Folder, run a file below:
 ##### CS482-Graphics-Project/Executable/KAIST_RUN_Team_5.exe
 
 ## Description
