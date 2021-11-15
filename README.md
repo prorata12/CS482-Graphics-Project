@@ -7,7 +7,7 @@ After downloading CS482-Graphics-Project/Executable Folder, run a file below:
 
 ## Description
 This Project involves several graphical techniques:
-(1) Billboarding
+\newline (1) Billboarding
 (2) Falling particles (snow)
 (3) Collision detection
 (4) Movement using keyboard inputs
