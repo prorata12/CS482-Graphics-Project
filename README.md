@@ -21,4 +21,4 @@ This Project involves several graphical techniques:
 > (4) Billboarding  
  
   
-A few more techniques are used throughout this project, and the details and demo video are in ppt file
+A few more techniques are used throughout this project, and the details and demo video are in pdf file
