@@ -3,7 +3,7 @@
 
 ## How to run
 After downloading CS482-Graphics-Project/Executable Folder, run a below file:
-### CS482-Graphics-Project/Executable/KAIST_RUN_Team_5.exe
+##### CS482-Graphics-Project/Executable/KAIST_RUN_Team_5.exe
 
 ## Description
 This Project involves several graphical techniques:
